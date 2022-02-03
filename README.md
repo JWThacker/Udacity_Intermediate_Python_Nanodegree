@@ -1,5 +1,5 @@
 # Udacity - Intermediate Python
-This repository contains some of the exercises and all projects necessary for me to complete the Data Analyst nanodegree by Udacity. There were two main modules/lessons to this module and each are completed using Python:
+This repository contains some of the exercises and all projects necessary for me to complete the Intermediate Python nanodegree by Udacity. There were two main modules/lessons to this module and each are completed using Python:
 
    * The Advanced Python Techniques module where I learned in more detail about the primitive data types in python, python's data structures, functional programming, object-oriented programming and file I/O.
 
