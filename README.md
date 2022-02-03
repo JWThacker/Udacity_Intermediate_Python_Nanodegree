@@ -9,8 +9,8 @@ All projects for this module will be explained in the Projects section.
 
 # Projects
 
-   * ##Project 1
-   
+   *  ##Project 1
+
       Using the description from Udacity:
 
       ### Overview
