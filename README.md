@@ -10,7 +10,9 @@ All projects for this module will be explained in the Projects section.
 # Projects
 
    * ##Project 1
+   
       Using the description from Udacity:
+
       ### Overview
       At a high-level, you'll create Python code that implements a command-line tool to inspect and query a dataset of NEOs and their close approaches to Earth.
 
